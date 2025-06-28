@@ -2,6 +2,8 @@
 
 This is a simple chatbot that lets you **upload a PDF and ask questions about it**. It uses **Mistral AI + LangChain** to read your PDF, store the content in memory, and answer your questions using RAG (Retrieval-Augmented Generation).
 
+https://github.com/user-attachments/assets/d1437d06-b304-4f08-8e7a-d904c20143b8
+
 ---
 
 ## Features
